@@ -9,6 +9,6 @@ Pruebas de software y aseguramiento de la calidad (Gpo 10)
 2.6 Identificar estándares de codificación reconocidos en la industria y sus implicaciones.
 
 ## Ejercicios de programación
-1. Compute statistics
-2. Converter
-3. Count Words
+1. [Compute statistics](https://github.com/luisnicg/A01795631_A4.2/tree/main/P1)
+2. [Converter](https://github.com/luisnicg/A01795631_A4.2/tree/main/P2)
+3. [Count Words](https://github.com/luisnicg/A01795631_A4.2/tree/main/P3)
